@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
@@ -22,9 +23,13 @@ public class GameManager : MonoBehaviour
             Destroy(gameObject);
     }
 
-    private void Start()
+    public void OnGameStart()
     {
         spawnManager.InvokeRepeating("SpawnStone", 0f, Random.Range(spawnManager.spawnIntervalMin, spawnManager.spawnIntervalMax));
         spawnManager.InvokeRepeating("SpawnEnemy", 0f, Random.Range(spawnManager.spawnIntervalMin, spawnManager.spawnIntervalMax));
+    }
+    public void Replay()
+    {
+        SceneManager.LoadSceneAsync(SceneManager.GetActiveScene().buildIndex);
     }
 }

@@ -7,6 +7,7 @@ public class HUDManager : MonoBehaviour
 {
     public TextMeshProUGUI counterText;
     public GameObject gameOverPanel;
+    public GameObject gameStartPanel;
 
     private void Start()
     {
@@ -19,5 +20,6 @@ public class HUDManager : MonoBehaviour
     public void UpdateGameOverPanel(bool status)
     {
         gameOverPanel.SetActive(status);
+        gameStartPanel.SetActive(!status);
     }
 }

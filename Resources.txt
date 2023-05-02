@@ -1,0 +1,26 @@
+Game 1
+1. spaceship: https://www.freepik.com/free-vector/spaceship-ufo-vector-set-cartoon-style-rocket-spacecraft-futuristic-transportation_10601098.htm#query=spaceship&position=0&from_view=keyword&track=sph
+2. stone: https://www.freepik.com/free-vector/stone-asteroids-meteor-space-boulder-rock_28877061.htm#query=space%20stone%20transparent&position=2&from_view=search&track=ais
+3. Enemy: https://www.freepik.com/free-vector/alien-ufo-scene_4955178.htm#page=2&query=space%20enemy%20transparent&position=8&from_view=search&track=ais
+4. bg: https://www.freepik.com/free-vector/realistic-galaxy-background_14960493.htm#query=space%20bg&position=6&from_view=search&track=ais
+5. bullet: https://www.freepik.com/free-vector/spaceship-ufo-vector-set-cartoon-style-rocket-spacecraft-futuristic-transportation_10601098.htm#query=spaceship&position=0&from_view=keyword&track=sph
+
+Game 2
+1. plane: https://www.freepik.com/free-vector/airplane-cartoon-style-isolated_24066743.htm#query=plane%20sprite&position=35&from_view=search&track=ais
+2. cloud: https://www.freepik.com/free-vector/flat-clouds-collection_16133880.htm#query=cloud%20sprite&position=6&from_view=search&track=ais
+3. enemy plane: https://www.freepik.com/free-vector/futuristic-spaceship-collection-with-flat-design_2898807.htm#query=enemy%20plane%20sprite%20side&position=2&from_view=search&track=ais
+
+Game 3
+1. monkey: https://www.freepnglogos.com/images/monkey-19074.html
+2. banana: https://www.flaticon.com/free-icon/banana_1135468
+3. jungle: https://www.freepik.com/free-vector/cartoon-forest-landscape-endless-nature-background-computer-games-nature-tree-outdoor-plant-green-natural-environment-wood_10600816.htm#query=jungle%20game%20background&position=24&from_view=keyword&track=ais
+4. coconut: https://www.freepik.com/free-vector/cartoon-forest-landscape-endless-nature-background-computer-games-nature-tree-outdoor-plant-green-natural-environment-wood_10600816.htm#query=jungle%20game%20background&position=24&from_view=keyword&track=ais
+
+Game 4:
+1. bg: https://www.freepik.com/free-vector/boat-underwater-view-empty-sea-bottom-with-sand-seaweeds-rocks-bubbles-floating-sunlight-beam-falling-from-skiff-with-lifebuoy-marine-undersea-scene-cartoon-vector-illustration_21266998.htm#query=ocean%20sprite&position=17&from_view=search&track=ais
+2. fish: https://www.freepik.com/free-vector/boat-underwater-view-empty-sea-bottom-with-sand-seaweeds-rocks-bubbles-floating-sunlight-beam-falling-from-skiff-with-lifebuoy-marine-undersea-scene-cartoon-vector-illustration_21266998.htm#query=ocean%20sprite&position=17&from_view=search&track=ais
+3. shark: https://www.freepik.com/free-vector/boat-underwater-view-empty-sea-bottom-with-sand-seaweeds-rocks-bubbles-floating-sunlight-beam-falling-from-skiff-with-lifebuoy-marine-undersea-scene-cartoon-vector-illustration_21266998.htm#query=ocean%20sprite&position=17&from_view=search&track=ais
+4. bubbles: https://www.freepik.com/free-vector/hand-drawn-animation-frames-element-collection_32376918.htm#query=bubbles%20sprite&position=1&from_view=search&track=ais
+
+Fonts:
+https://www.fontspace.com/blomberg-font-f84442
