@@ -1,0 +1,21 @@
+Title: Firefighter Brigade: City Savior
+bundle id: com.firefighterbrigade.citysavior
+alias: key0
+Keystore password: g/z%)rds$+><$}jy')zph@v>vt^"[/&d^c
+Company: X
+country code: X
+city: X
+province: X
+First and last name: X
+Organisation: X
+
+
+Resources link:
+1. plane: https://www.freepik.com/free-vector/futuristic-spaceship-collection-with-flat-design_2898807.htm#query=enemy%20plane%20sprite%20side&position=2&from_view=search&track=ais
+2. cloud: https://www.freepik.com/free-vector/flat-clouds-collection_16133880.htm#query=cloud%20sprite&position=6&from_view=search&track=ais
+3. enemy plane: https://www.freepik.com/free-vector/futuristic-spaceship-collection-with-flat-design_2898807.htm#query=enemy%20plane%20sprite%20side&position=2&from_view=search&track=ais
+4. bullet: https://www.freepik.com/free-vector/spaceship-ufo-vector-set-cartoon-style-rocket-spacecraft-futuristic-transportation_10601098.htm#query=spaceship&position=0&from_view=keyword&track=sph
+5. BG: https://www.freepik.com/free-vector/urban-building-skyline-panoramic-illustration_7588778.htm#query=city%20sky%20sprite&position=48&from_view=search&track=ais
+
+Fonts:
+https://www.fontspace.com/blomberg-font-f84442

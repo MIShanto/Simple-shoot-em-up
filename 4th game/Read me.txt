@@ -1,0 +1,20 @@
+Title: Oceanic Explorer: Abyssal Secrets
+bundle id: com.oceanicexplorer.abyssalsecrets
+alias: key0
+Keystore password: g/z%)rds$+><$}jy')zph@v>vt^"[/&d^c
+Company: X
+country code: X
+city: X
+province: X
+First and last name: X
+Organisation: X
+
+
+Resources link:
+1. bg: https://www.freepik.com/free-vector/boat-underwater-view-empty-sea-bottom-with-sand-seaweeds-rocks-bubbles-floating-sunlight-beam-falling-from-skiff-with-lifebuoy-marine-undersea-scene-cartoon-vector-illustration_21266998.htm#query=ocean%20sprite&position=17&from_view=search&track=ais
+2. fish: https://www.freepik.com/free-vector/boat-underwater-view-empty-sea-bottom-with-sand-seaweeds-rocks-bubbles-floating-sunlight-beam-falling-from-skiff-with-lifebuoy-marine-undersea-scene-cartoon-vector-illustration_21266998.htm#query=ocean%20sprite&position=17&from_view=search&track=ais
+3. shark: https://www.freepik.com/free-vector/boat-underwater-view-empty-sea-bottom-with-sand-seaweeds-rocks-bubbles-floating-sunlight-beam-falling-from-skiff-with-lifebuoy-marine-undersea-scene-cartoon-vector-illustration_21266998.htm#query=ocean%20sprite&position=17&from_view=search&track=ais
+4. bubbles: https://www.freepik.com/free-vector/hand-drawn-animation-frames-element-collection_32376918.htm#query=bubbles%20sprite&position=1&from_view=search&track=ais
+
+Fonts:
+https://www.fontspace.com/blomberg-font-f84442

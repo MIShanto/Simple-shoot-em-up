@@ -1,0 +1,20 @@
+Title: Jungle Explorer: Lost Temple
+bundle id: com.jungleexplorer.losttemple
+alias: key0
+Keystore password: g/z%)rds$+><$}jy')zph@v>vt^"[/&d^c
+Company: X
+country code: X
+city: X
+province: X
+First and last name: X
+Organisation: X
+
+
+Resources link:
+1. monkey: https://www.freepnglogos.com/images/monkey-19074.html
+2. banana: https://www.flaticon.com/free-icon/banana_1135468
+3. jungle: https://www.freepik.com/free-vector/cartoon-forest-landscape-endless-nature-background-computer-games-nature-tree-outdoor-plant-green-natural-environment-wood_10600816.htm#query=jungle%20game%20background&position=24&from_view=keyword&track=ais
+4. coconut: https://www.freepik.com/free-vector/cartoon-forest-landscape-endless-nature-background-computer-games-nature-tree-outdoor-plant-green-natural-environment-wood_10600816.htm#query=jungle%20game%20background&position=24&from_view=keyword&track=ais
+
+Fonts:
+https://www.fontspace.com/blomberg-font-f84442

@@ -1,0 +1,21 @@
+Title: Galactic Defenders: Comet Crisis
+bundle id: com.galacticdefenders.cometcrisis
+alias: key0
+Keystore password: g/z%)rds$+><$}jy')zph@v>vt^"[/&d^c
+Company: X
+country code: X
+city: X
+province: X
+First and last name: X
+Organisation: X
+
+
+Resources link:
+1. spaceship: https://www.freepik.com/free-vector/spaceship-ufo-vector-set-cartoon-style-rocket-spacecraft-futuristic-transportation_10601098.htm#query=spaceship&position=0&from_view=keyword&track=sph
+2. stone: https://www.freepik.com/free-vector/stone-asteroids-meteor-space-boulder-rock_28877061.htm#query=space%20stone%20transparent&position=2&from_view=search&track=ais
+3. Enemy: https://www.freepik.com/free-vector/alien-ufo-scene_4955178.htm#page=2&query=space%20enemy%20transparent&position=8&from_view=search&track=ais
+4. bg: https://www.freepik.com/free-vector/realistic-galaxy-background_14960493.htm#query=space%20bg&position=6&from_view=search&track=ais
+5. bullet: https://www.freepik.com/free-vector/spaceship-ufo-vector-set-cartoon-style-rocket-spacecraft-futuristic-transportation_10601098.htm#query=spaceship&position=0&from_view=keyword&track=sph
+
+Fonts:
+https://www.fontspace.com/blomberg-font-f84442

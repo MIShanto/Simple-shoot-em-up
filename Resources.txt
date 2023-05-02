@@ -6,9 +6,11 @@ Game 1
 5. bullet: https://www.freepik.com/free-vector/spaceship-ufo-vector-set-cartoon-style-rocket-spacecraft-futuristic-transportation_10601098.htm#query=spaceship&position=0&from_view=keyword&track=sph
 
 Game 2
-1. plane: https://www.freepik.com/free-vector/airplane-cartoon-style-isolated_24066743.htm#query=plane%20sprite&position=35&from_view=search&track=ais
+1. plane: https://www.freepik.com/free-vector/futuristic-spaceship-collection-with-flat-design_2898807.htm#query=enemy%20plane%20sprite%20side&position=2&from_view=search&track=ais
 2. cloud: https://www.freepik.com/free-vector/flat-clouds-collection_16133880.htm#query=cloud%20sprite&position=6&from_view=search&track=ais
 3. enemy plane: https://www.freepik.com/free-vector/futuristic-spaceship-collection-with-flat-design_2898807.htm#query=enemy%20plane%20sprite%20side&position=2&from_view=search&track=ais
+4. bullet: https://www.freepik.com/free-vector/spaceship-ufo-vector-set-cartoon-style-rocket-spacecraft-futuristic-transportation_10601098.htm#query=spaceship&position=0&from_view=keyword&track=sph
+
 
 Game 3
 1. monkey: https://www.freepnglogos.com/images/monkey-19074.html
